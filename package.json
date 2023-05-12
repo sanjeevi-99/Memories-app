@@ -14,10 +14,6 @@
     "deploy-cluster": "npm run build --prefix client && npm run cluster --prefix server ",
     "test": "npm run test --prefix server && npm run test --prefix client"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vasanth2320/Memories.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
