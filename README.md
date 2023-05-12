@@ -1,17 +1,13 @@
 # Memories
 
-Project:
-I have created a simple project with React, Express, Node.js and mongoDB where
-people can login, signup, logout, they can post images , they can see and like others posts
-as well.
+I have created simple social media page where user can create their own account and they can share their unforgettable in life to other user. Users can like and comment on other user's posts and they can edit their own post as well.
 
+### Tech Stack used: 
+      React, Redux for state management, Node.js, Express.js, MongoDB, Material-UI, Firebase for google authentication, Redux-thunk, Jsonwebtoken & Bcryptjs for encrypting and decrypting information between client and server, REST APIs
 
-Live-Website-Links:
+Live website Link: https://cool-queijadas-ed7a03.netlify.app/
 
-   ● Server-side - https://memories-app-production-dbdc.up.railway.app
-
-   ● Client-side - https://cool-queijadas-ed7a03.netlify.app
-
+### Steps to run the web app:
 
 First use ```npm install``` to install concurrently
 
