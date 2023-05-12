@@ -2,10 +2,10 @@
 
 I've designed a basic social media portal where users may make their own accounts and share their memorable moments with other users. Users can like and comment on other users' postings, as well as change their own.
 
- Tech Stack used: 
+ **Tech Stack used:** 
       React, Redux for state management, Node.js, Express.js, MongoDB, Material-UI, Firebase for google authentication, Redux-thunk, Jsonwebtoken & Bcryptjs for encrypting and decrypting information between client and server, REST APIs
 
-Live website Link: https://cool-queijadas-ed7a03.netlify.app/
+**Live website Link:** https://cool-queijadas-ed7a03.netlify.app/
 
 ### Steps to run the web app:
 
