@@ -17,10 +17,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vasanth2320/Memories/issues"
-  },
-  "homepage": "https://github.com/vasanth2320/Memories#readme",
   "dependencies": {
     "concurrently": "^7.6.0"
   }
